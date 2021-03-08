@@ -1,0 +1,3 @@
+/home/ziusudra/Desktop/aves/CMakeFiles/rebuild_cache.dir
+/home/ziusudra/Desktop/aves/CMakeFiles/edit_cache.dir
+/home/ziusudra/Desktop/aves/CMakeFiles/Aves.dir

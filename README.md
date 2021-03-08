@@ -1,4 +1,19 @@
-Simulacion de aves
+# Simulación de aves
+## Compile:
+
+Prepare files:
+
+```
+cmake .
+```
+
 Compile:
-make all 
-./bin/ave
+
+```
+make
+```
+Run:
+
+```
+./Aves
+```
