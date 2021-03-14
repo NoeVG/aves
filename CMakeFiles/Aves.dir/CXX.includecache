@@ -1027,6 +1027,8 @@ opencv2/core.hpp
 /usr/local/include/opencv4/opencv2/opencv2/core.hpp
 
 include/Ave.h
+cmath
+-
 
 include/World.h
 opencv2/opencv.hpp
